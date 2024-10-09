@@ -17,7 +17,7 @@ function About() {
         <br/>
         <br/>
         I am a passionate AI enthusiast with expertise in Web3, Metaverse, and
-        Generative AI,<br/> currently honing my skills under the guidance of <b className="bg-orange-400"> "Sir Hamza Alvi"</b>
+        Generative AI,<br/> currently honing my skills under the guidance of <b className="bg-orange-400"> Sir Hamza Alvi</b>
         <br/> My journey is fueled by curiosity and a desire to innovate
         through technology.<br/> I strive to create impactful digital experiences
         that bridge the gap between creativity and technology.<br/>
